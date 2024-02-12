@@ -1,0 +1,90 @@
+/* 
+  Localizable.strings
+  CryptoApp
+
+  Created by yulias on 23.12.23.
+  
+*/
+// MARK: - Onboarding/Splash Screens
+"is_user_onboarded" = "isUserOnboarded";
+"splash_screen_bitcoin_logo" = "bitcoinsign.circle.fill";
+"splash_screen_cryptoapp" = "CryptoApp";
+
+// MARK: - TabBarView
+"portfolio_title" = "Portfolio";
+"all_assets_title" = "All Assets";
+"news_title" = "News";
+"settings_title" = "Settings";
+
+//MARK: - Portfolio
+"triangle_fill_title" = "triangle.fill";
+"arrowtriangle_down_fill_title" = "arrowtriangle.down.fill";
+"bitcoin_full_name" = "Bitcoin";
+"bitcoin_short_name" = "BTC";
+"ethereum_full_name" = "Ethereum";
+"ethereum_short_name" = "ETH";
+"litecoin_full_name" = "Litecoin";
+"litecoin_short_name" = "LTC";
+"eos_full name" = "EOS";
+"eos_short_name" = "EOS";
+"total_balance_title" = "Total Balance";
+"mock_total_dynamics" = "0.28 (0.20%)";
+"suitcase_fill_title" = "suitcase.fill";
+"crypto_assets_title" = "Crypto Assets";
+
+// MARK: - CurrencyType
+"eur_sign" = "€ EUR";
+"usd_sign" = "$ USD";
+"jpy_sign" = "¥ JPY";
+"gbp_sign" = "£ GBP";
+"bitcoin_sign" = "₿ BTC";
+"ethereum_sign" = "Ξ ETH";
+// MARK: - AllAssetsView
+"chevron_down" = "chevron.down";
+"sort_by" = "Sort by";
+"magnifying_glass_icon" = "text.magnifyingglass";
+"xmark_circle" = "xmark.circle";
+"arrowtriangle_up_fill_icon" = "arrowtriangle.up.fill";
+// MARK: - NewsView
+"chevron_right_icon" = "chevron.right";
+"messages_icon" = "message.fill";
+
+// MARK: - SettingsView
+"chevron_up" = "chevron.up";
+"show_less" = "Show Less";
+"show_more" = "Show More";
+"account_settings" = "Account Settings";
+"account_currency" = "Account Currency";
+"max_shown_assets" = "Max Shown Assets: ";
+"general_settings" = "General Settings";
+"general_settings_header" = "Use these settings to customize your visual comfort and control how you receive updates.";
+"dark_mode" = "Dark mode";
+"enable_notifications" = "Enable Notifications";
+"user_information" = "User Information";
+"person_crop_circle_fill_badge_plus" = "person.crop.circle.fill.badge.plus";
+"change_profile_picture" = "Change Profile Picture";
+"chevron_fill" = "chevron.right";
+"envelope_fill" = "envelope.fill";
+"change_email" = "Change Email";
+"lock_fill" = "lock.fill";
+"change_password" = "Change Password";
+"log_out" = "Log out";
+"power" = "power";
+"follow_on_github" = "Follow developers on GitHub";
+"link" = "link";
+"settings" = "Settings";
+"user_name" = "Kevin Dukkon";
+"user_email" = "k.dukkon@dukkon.com";
+"total_balance" = "Total Balance";
+"creditcard_fill" = "creditcard.fill";
+"xxx_USD" = "XXX USD";
+"portfolio_diversity" = "Portfolio Diversity";
+"chart_pie_fill" = "chart.pie.fill";
+"portfolio_diversity_figures" = "BTC 50%, ETH 25%";
+
+// MARK: - NewsDetailView
+"clock_icon" = "clock";
+"calendar_icon" = "calendar";
+"one_minute" = "min";
+"minutes" = "mins";
+"reading" = "reading";

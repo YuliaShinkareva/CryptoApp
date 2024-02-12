@@ -1,0 +1,20 @@
+input_dir: ${PROJECT_DIR}/CryptoApp
+output_dir: ${PROJECT_DIR}/CryptoApp/SwiftGen
+
+#Strings
+strings:
+  inputs: Supporting files/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: Strings.swift
+      params:
+        enumName: LocalizedString
+      
+#Assets
+xcassets:
+  inputs:
+    - Supporting files/Assets.xcassets
+    - Supporting files/Colors.xcassets
+  outputs:
+    templateName: swift5
+    output: Images.swift
