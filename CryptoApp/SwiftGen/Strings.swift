@@ -24,8 +24,8 @@ internal enum LocalizedString {
   internal static let bitcoinFullName = LocalizedString.tr("Localizable", "bitcoin_full_name", fallback: "Bitcoin")
   /// BTC
   internal static let bitcoinShortName = LocalizedString.tr("Localizable", "bitcoin_short_name", fallback: "BTC")
-  /// ₿ BTC
-  internal static let bitcoinSign = LocalizedString.tr("Localizable", "bitcoin_sign", fallback: "₿ BTC")
+  /// ₿
+  internal static let bitcoinSign = LocalizedString.tr("Localizable", "bitcoin_sign", fallback: "₿")
   /// calendar
   internal static let calendarIcon = LocalizedString.tr("Localizable", "calendar_icon", fallback: "calendar")
   /// Change Email
@@ -64,14 +64,14 @@ internal enum LocalizedString {
   internal static let ethereumFullName = LocalizedString.tr("Localizable", "ethereum_full_name", fallback: "Ethereum")
   /// ETH
   internal static let ethereumShortName = LocalizedString.tr("Localizable", "ethereum_short_name", fallback: "ETH")
-  /// Ξ ETH
-  internal static let ethereumSign = LocalizedString.tr("Localizable", "ethereum_sign", fallback: "Ξ ETH")
-  /// € EUR
-  internal static let eurSign = LocalizedString.tr("Localizable", "eur_sign", fallback: "€ EUR")
+  /// Ξ
+  internal static let ethereumSign = LocalizedString.tr("Localizable", "ethereum_sign", fallback: "Ξ")
+  /// €
+  internal static let eurSign = LocalizedString.tr("Localizable", "eur_sign", fallback: "€")
   /// Follow developers on GitHub
   internal static let followOnGithub = LocalizedString.tr("Localizable", "follow_on_github", fallback: "Follow developers on GitHub")
-  /// £ GBP
-  internal static let gbpSign = LocalizedString.tr("Localizable", "gbp_sign", fallback: "£ GBP")
+  /// £
+  internal static let gbpSign = LocalizedString.tr("Localizable", "gbp_sign", fallback: "£")
   /// General Settings
   internal static let generalSettings = LocalizedString.tr("Localizable", "general_settings", fallback: "General Settings")
   /// Use these settings to customize your visual comfort and control how you receive updates.
@@ -81,8 +81,8 @@ internal enum LocalizedString {
   /// 
   ///   Created by yulias on 23.12.23.
   internal static let isUserOnboarded = LocalizedString.tr("Localizable", "is_user_onboarded", fallback: "isUserOnboarded")
-  /// ¥ JPY
-  internal static let jpySign = LocalizedString.tr("Localizable", "jpy_sign", fallback: "¥ JPY")
+  /// ¥
+  internal static let jpySign = LocalizedString.tr("Localizable", "jpy_sign", fallback: "¥")
   /// link
   internal static let link = LocalizedString.tr("Localizable", "link", fallback: "link")
   /// Litecoin
@@ -141,8 +141,8 @@ internal enum LocalizedString {
   internal static let totalBalanceTitle = LocalizedString.tr("Localizable", "total_balance_title", fallback: "Total Balance")
   /// triangle.fill
   internal static let triangleFillTitle = LocalizedString.tr("Localizable", "triangle_fill_title", fallback: "triangle.fill")
-  /// $ USD
-  internal static let usdSign = LocalizedString.tr("Localizable", "usd_sign", fallback: "$ USD")
+  /// $
+  internal static let usdSign = LocalizedString.tr("Localizable", "usd_sign", fallback: "$")
   /// k.dukkon@dukkon.com
   internal static let userEmail = LocalizedString.tr("Localizable", "user_email", fallback: "k.dukkon@dukkon.com")
   /// User Information
