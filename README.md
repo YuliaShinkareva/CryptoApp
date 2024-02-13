@@ -1,4 +1,6 @@
 CyrptoApp written on SwiftUI, MVVM, SwiftGen, sorting, UI.... further development is under the progress
+To open the app, please open .xcodeproj directory.
+
 <img width="367" alt="Screenshot 2024-02-12 at 23 21 11" src="https://github.com/YuliaShinkareva/CryptoApp/assets/112308390/776bf789-4b8f-4862-83fb-aadc99aac7e4">
 <img width="367" alt="Screenshot 2024-02-13 at 09 20 19" src="https://github.com/YuliaShinkareva/CryptoApp/assets/112308390/157dde56-9ca0-40e9-89a2-08180466efa8">
 <img width="367" alt="Screenshot 2024-02-13 at 09 20 39" src="https://github.com/YuliaShinkareva/CryptoApp/assets/112308390/acad4bf8-8777-4fb7-8231-273dfeefcba7">
