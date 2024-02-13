@@ -9,12 +9,7 @@ import SwiftUI
 
 enum CurrencyType: String, Equatable, CaseIterable {
     
-    case eur = "EUR"
-    case usd = "USD"
-    case jpy = "JPY"
-    case gbp = "GBP"
-    case bitocoin = "BTC"
-    case ethereum = "ETH"
+    case usd, eur, jpy, gbp, btc, eth
 
     var symbolText: String {
          switch self {
@@ -26,10 +21,15 @@ enum CurrencyType: String, Equatable, CaseIterable {
              return LocalizedString.jpySign
          case .gbp:
              return LocalizedString.gbpSign
-         case .bitocoin:
+         case .btc:
              return LocalizedString.bitcoinSign
-         case .ethereum:
+         case .eth:
              return LocalizedString.ethereumSign
          }
      }
+    
+    var title: String {
+        return self.rawValue.uppercased()
+    }
 }
+

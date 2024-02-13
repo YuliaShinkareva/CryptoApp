@@ -33,12 +33,12 @@
 "crypto_assets_title" = "Crypto Assets";
 
 // MARK: - CurrencyType
-"eur_sign" = "€ EUR";
-"usd_sign" = "$ USD";
-"jpy_sign" = "¥ JPY";
-"gbp_sign" = "£ GBP";
-"bitcoin_sign" = "₿ BTC";
-"ethereum_sign" = "Ξ ETH";
+"eur_sign" = "€";
+"usd_sign" = "$";
+"jpy_sign" = "¥";
+"gbp_sign" = "£";
+"bitcoin_sign" = "₿";
+"ethereum_sign" = "Ξ";
 // MARK: - AllAssetsView
 "chevron_down" = "chevron.down";
 "sort_by" = "Sort by";

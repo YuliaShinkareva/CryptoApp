@@ -25,7 +25,7 @@ final class SettingsViewModel: ObservableObject {
     }
 
     func getCurrencies() -> [String] {
-        return currencies.map {$0.symbolText}
+        return currencies.map {$0.symbolText + " \($0.title)"}
     }
     
     var stepValue: Int {

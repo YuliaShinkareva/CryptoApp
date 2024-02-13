@@ -62,7 +62,7 @@ struct SettingsScrollableView: View {
                 .listRowBackground(Constants.Colors.row)
                 
                 Section {
-                    Stepper(value: $viewModel.maxShownAssets, 
+                    Stepper(value: $viewModel.maxShownAssets,
                             in: Constants.Layout.stepperStep...viewModel.maxAssetsValue,
                             step: viewModel.stepValue)
                     {
